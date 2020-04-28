@@ -1,2 +1,3 @@
 This is a new file for testing
+and trying the staged function
 
